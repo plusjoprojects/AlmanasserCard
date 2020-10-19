@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "digitalcard",
-    "slug": "digitalcard",
-    "version": "1.0.0",
+    "name": "Al-ManaseerCard",
+    "slug": "almasnaseercard",
+    "version": "1.0.4",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
@@ -19,7 +19,20 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.almanassercard.plus"
+    },
+    "android": {
+      "package": "com.almanassercard.plus",
+      "versionCode": 4,
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "CAMERA",
+        "READ_PHONE_STATE",
+        "RECORD_AUDIO",
+        "READ_CONTACTS"
+      ]
     },
     "web": {
       "favicon": "./assets/images/favicon.png"

@@ -1,0 +1,58 @@
+{
+    "main": {
+        "top_title": "Select Cards",
+        "select_type":"Select Type",
+        "categories":"Categories",
+        "other_categories":"Other Categories"
+    },
+    "checkout":{
+        "no_code":"There Are No Code Available for now",
+        "no_amount" :"There Are no amount in your wallet please charge your wallet",
+        "checkout":"Checkout",
+        "buy":"Buy The Code",
+        "brand":"Brand",
+        "price":"Price",
+        "qty":"Quantity",
+        "confirm":"Confirm"
+    },
+    "code":{
+        "you_get":"You Get The Code !",
+        "brand":"Brand",
+        "type":"Type",
+        "qty":"Quantity",
+        "thank_message":"Thank you for use our system, The Code Saved for Next time Use.",
+        "share":"Share With Whats App",
+        "print":"Print",
+        "back_to_home":"Back To Home",
+        "press_to_copy": "Press on the code to copy"
+    },
+    "order_history":{
+        "data":"Data",
+        "code":"Code",
+        "categories":"Categories",
+        "type":"Type",
+        "no_codes":"There are not found any Codes",
+        "order_history":"Order History"
+    },
+    "fav":{
+        "title":"Favorite"
+    },
+    "settings":{
+        "update_profile":"Update password",
+        "logout":"Logout",
+        "settings":"Settings",
+        "general_settings":"General Settings",
+        "language":"Language"
+    },
+    "search":{
+        "title":"Search",
+        "search_for_cards":"Search From Cards",
+        "search_for_result":"Search For The Result"
+    },
+    "drawer":{
+        "main":"Main",
+        "about_us":"AboutUs",
+        "contact_us":"ContactUs",
+        "reports":"Reports"
+    }
+}
